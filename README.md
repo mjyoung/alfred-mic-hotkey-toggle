@@ -13,3 +13,4 @@ Instructions:
 5. Copy [bitbar-mic-toggle.sh](https://gist.github.com/mjyoung/28cf71375177635808584f90de2ef39e) into your home directory (`/Users/<username>`).
 6. Download the [Mic Hotkey Toggle](https://github.com/mjyoung/alfred-mic-hotkey-toggle/blob/master/Mic%20Hotkey%20Toggle.alfredworkflow) workflow. Open the file to import it into Alfred.
 7. Edit the workflow Script step. Navigate down to where you see `--Bitbar Custom Icon` and change `/Users/michaelyoung/` to your own.
+8. Set a hotkey for your workflow, and you're good to go!
