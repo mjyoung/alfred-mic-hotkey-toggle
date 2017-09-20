@@ -4,6 +4,8 @@ Alfred workflow for using a global hotkey to toggle MUTE/UNMTUE on the system mi
 
 To be used in conjunction with [BitBar](https://getbitbar.com/).
 
+![](https://media.giphy.com/media/3ov9jIGEkOrdJrNs9q/giphy.gif)
+
 Instructions:
 
 1. Install BitBar.
